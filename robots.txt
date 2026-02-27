@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trailgenic-hybrid.vercel.app/sitemap.xml
+
+# Hybrid Mirror Node — trailgenic.com
+# Role: Structural mirror only
+# Canonical Authority: https://www.trailgenic.com
+# This mirror reflects canonical identity and schema for redundancy and crawl parity.
+# No independent authority, doctrine, or primary attribution originates here.
